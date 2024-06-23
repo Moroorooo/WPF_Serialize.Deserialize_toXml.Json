@@ -1,0 +1,18 @@
+[
+  {
+    "ScheduleId": 1,
+    "ScheduleName": "Sân Thủ Đức",
+    "StartTimeFrame": "2024-06-23T10:00:00",
+    "EndTimeFrame": "2024-06-23T12:00:00",
+    "Price": 100.50,
+    "TotalHours": 2.0
+  },
+  {
+    "ScheduleId": 2,
+    "ScheduleName": "Sân Bình Thạnh",
+    "StartTimeFrame": "2024-06-25T14:00:00",
+    "EndTimeFrame": "2024-06-25T17:00:00",
+    "Price": 150.75,
+    "TotalHours": 3.0
+  }
+]

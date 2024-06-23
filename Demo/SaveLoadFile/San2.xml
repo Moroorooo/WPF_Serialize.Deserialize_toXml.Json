@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfSchedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Schedule>
+    <ScheduleId>1</ScheduleId>
+    <ScheduleName>Sân Thủ Đức</ScheduleName>
+    <StartTimeFrame>2024-06-23T10:00:00</StartTimeFrame>
+    <EndTimeFrame>2024-06-23T12:00:00</EndTimeFrame>
+    <Price>100.5</Price>
+    <TotalHours>2</TotalHours>
+  </Schedule>
+  <Schedule>
+    <ScheduleId>2</ScheduleId>
+    <ScheduleName>Sân Bình Thạnh</ScheduleName>
+    <StartTimeFrame>2024-06-25T14:00:00</StartTimeFrame>
+    <EndTimeFrame>2024-06-25T17:00:00</EndTimeFrame>
+    <Price>150.75</Price>
+    <TotalHours>3</TotalHours>
+  </Schedule>
+</ArrayOfSchedule>
